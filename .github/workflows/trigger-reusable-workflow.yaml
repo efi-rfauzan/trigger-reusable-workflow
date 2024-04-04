@@ -7,5 +7,5 @@ jobs:
     permissions:
       contents: read
       pull-requests: read
-    uses: efi-rfauzan/reusable-workflow/.github/workflows/reusable-workflow.yaml@main
+    uses: efi-rfauzan/reusable-workflow/.github/workflows/reusable-workflow.yaml@reusable-workflow-v1.0.0
     
