@@ -4,5 +4,5 @@ on:
   
 jobs:
   call-reusable-workflow:
-    uses: efi-rfauzan/reusable-workflow/.github/workflows/reusable-workflow.yaml
+    uses: efi-rfauzan/reusable-workflow/.github/workflows/reusable-workflow.yaml@main
     
